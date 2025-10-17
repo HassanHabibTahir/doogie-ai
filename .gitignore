@@ -1,0 +1,5 @@
+.env
+temp_auto_push.bat
+env
+*.env.gitignore
+temp_interactive_push.bat
